@@ -10,6 +10,7 @@
 
 # Company_website_templete
 Basic company website template designed  using bootstap,HTML,CSS and JS.
+Best for Beginner.
 
 
  WEBSITE SCREENSHOT
