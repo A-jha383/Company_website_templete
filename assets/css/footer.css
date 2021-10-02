@@ -1,0 +1,23 @@
+.page-footer{
+background-image: linear-gradient(
+158deg, #1d0180,#037db1,#249fd3,#023650);
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+margin: 0px;
+padding-bottom: 0.8vh;
+}
+.page-footer.dark h5{
+   color: #b5fb66;
+}
+.page-footer hr{
+    width: 90%;;
+    margin-left: 5vw;  
+    border: 1px solid white;
+}
+.footer-copyright{
+    border: 0px;
+    /* background-color: lightblue; */
+    background-image: linear-gradient(
+158deg, #015580,#0492ce,#0394d1,#015580);
+/* background-color: #d1ebf5; */
+}
